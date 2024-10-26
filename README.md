@@ -91,3 +91,7 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 ## License
 This project is licensed under the MIT License.
 
+## VIEW OF PROJECT 
+![HOME_PAGE](https://github.com/user-attachments/assets/744dc0ce-d3b5-4410-8fc6-b985187a578b)
+)
+
